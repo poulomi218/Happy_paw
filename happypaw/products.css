@@ -1,0 +1,172 @@
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .container {
+    position: relative;
+    text-align: center;
+    color: rgb(255, 255, 255);
+  }
+  .button5 {
+    background-color: white;
+    color: black;
+    
+  }
+  
+  .button5:hover {
+    background-color: #000000;
+    color: white;
+  }
+  .button {
+   
+    border: none;
+    
+    padding: 10px 79px 10px 79px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color:#f0f0f0 ; text-align:center; color:black; border-color: #f0f0f0; 
+  }
+  .bottom-left {
+    position: absolute;
+    bottom: 14px;
+    right: 10px;
+    
+  }
+.navi1
+{
+    background-color:black; color:white; font-family: Playfair Display; font-size: 18px; text-align: center; height:120px;
+}  
+
+.navi2
+{
+    text-align:center ; margin-top: 70px;
+}
+
+.navi3
+{
+    padding-top:10px ; padding: 40px; margin-left: 40px;
+}
+.ppad1001
+{
+    padding: 30px;
+}
+.navi4
+{
+    color:white; font-family:Playfair Display; font-size:18px; font-weight:regular; margin-top: 0%; 
+}
+.navi5
+{
+    padding-top:10px ; padding: 40px; margin-right: 20px;
+}
+.navi6
+{
+    padding-top:10px ; padding: 10px;
+}
+.navi7
+{
+    margin-left: 10px; height: 60%;
+}
+.navi8
+{
+    padding-top:10px ; padding: 40px; 
+}
+.bkgblack
+{
+    background-color: black;
+}
+.opacity60
+{
+    opacity:60%;
+}
+.oph1
+{
+    font-family:Playfair Display;font-size:62px; font-weight:bold
+}
+.margin70
+{
+    margin-top: 70px ;
+    padding:3%;
+}
+.oph2
+{
+    font-family:Playfair Display ; font-size:50px; font-weight:bold; text-align: center;
+}
+.opp1
+{
+    font-family:Playfair Display; font-size:20px; font-weight: medium; text-align: center; padding-left: 90px; padding-right: 90px; margin-top: 20px;
+}
+.oppad1001
+{
+    padding: 2%;
+}
+.oph5
+{
+    font-family:Playfair Display ; font-size:50px; padding:2%;
+}
+.opbt1
+{
+    background-color:black ; color:white;padding:4%;margin-top: 40px;
+}
+.bkgf0
+{
+    background-color:#f0f0f0f0 ;
+}
+.btmpad22
+  {
+    padding: 1% 15% 1% 16%;
+  }
+.prods1
+{
+    background-color:#f0f0f0;
+    
+}
+.prods2
+{
+    background-color:#ffffff ; padding: 5%;
+}
+.container1001 {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  .centered1001 {
+    position: absolute;
+    top: 90%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+  }
+  .centextf
+  {
+    font-family: Playfair Display;
+    font-size:30px;
+    font-weight: bold;
+  }
+  .centered1002 {
+    position: absolute;
+    top: 90%;
+    left: 72%;
+    transform: translate(-50%, -50%);
+  }
+
+  .censtyle1
+  {
+    font-family: Playfair Display;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 2%;
+  }
+  .censtyle2
+  {
+    font-family: Playfair Display;
+    font-size: 20px; 
+    font-weight: regular;
+    padding: 2%;
+  }

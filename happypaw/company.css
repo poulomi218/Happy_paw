@@ -1,0 +1,211 @@
+.btn{
+    border-radius: 0px !important;
+    font-family: "Gilroy";
+    border-color: black;
+}
+
+
+.mybtn{
+    
+background-color:white;
+font-family: Playfair Display;
+ 
+font-size:22px;
+font-weight: bold;
+margin-top: 2%;
+margin-bottom: 2%;
+padding: 1% 4% 1% 4%;
+}
+.mybtn1{
+    
+  background-color:white;
+  font-family: Playfair Display;
+   
+  font-size:22px;
+  font-weight: bold;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  
+  }
+  .mybtn1:hover
+  {
+    background-color: #000000;
+    color: #f0f0f0;
+  }
+  .mybtn:hover
+  {
+    background-color: #000000;
+    color: #f0f0f0;
+  }
+  .btmpad1
+  {
+    padding: 1% 38% 1% 38%;
+  }
+  .btmpad2
+  {
+    padding: 1% 9% 1% 9%;
+  }
+  .btmpad3
+  {
+    padding: 1% 30% 1% 30%;
+  }
+  .btmpad4
+  {
+    padding: 1% 5% 1% 3%;
+  }
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .centered1 {
+    position: absolute;
+    top: 50%;
+    left:1%;
+    
+    
+    text-align: center;
+    
+    margin-left:2%;
+    margin-right: 5%;
+    font-family:Playfair Display;
+    font-size: 20px;
+    font-weight:medium;
+    color:white;
+  
+  }
+  .container {
+    position: relative;
+    text-align: center;
+    color: rgb(255, 255, 255);
+  }
+  .button5 {
+    background-color: white;
+    color: black;
+    
+  }
+  
+  .button5:hover {
+    background-color: #000000;
+    color: white;
+  }
+  .button {
+   
+    border: none;
+    
+    padding: 10px 79px 10px 79px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color:#f0f0f0 ; text-align:center; color:black; border-color: #f0f0f0; 
+  }
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 30%;
+    
+  }
+  .opacity30
+  {
+    opacity:30%;
+  }
+  .comh1
+  {
+    font-family:Playfair Display;font-size:62px; font-weight:bold;
+  }
+  .coms1
+  {
+    background-color:#f0f0f0 ; margin-top:5%
+  }
+  .coms2
+  {
+    font-family:Playfair Display ; font-size:50px; font-weight:bold ; text-align: center; padding: 1% 1% 1% 1%;
+  }
+  .coms3
+  {
+    font-family:Playfair Display ; font-size:20px; font-weight:medium ; text-align: center; padding: 1% 1% 1% 1%;
+  }
+  .coms4
+  {
+    margin:5% ; background-color:#000000; 
+  }
+  .opacity80
+  {
+    opacity:80%;
+  }
+  .cpadding6
+  {
+    padding: 6%;
+  }
+  .comps1
+  {
+    font-family: Playfair Display;
+    font-size: 15px;
+    font-weight:regular;
+  }
+  .comh1
+  {
+    font-family: Playfair Display; font-size:50px; font-weight: bold; padding:auto;
+  }
+  .coms5
+  {
+    padding: 5%; background-color: #f0f0f0;
+  }
+  .coms6
+  {
+    font-family:Roboto; font-size: 20px ; font-weight:light; padding-top: 20%;
+  }
+  .coms7
+  {
+    font-family:Playfair Display ; font-size:70px; font-weight: SemiBold; text-align: left;
+  }
+  .coms8
+  {
+    background-color:black; color:white;
+  }
+  .coms9
+  {
+    font-family:Playfair Display ; font-size: 20px ; font-weight: bold; padding: 1%;
+  }
+  .coms10
+  {
+    font-family:Playfair Display ; font-size: 10px ; font-weight:regular; padding: 1%;
+  }
+  .coms11
+  {
+    color: black ; font-family:Playfair Display ; font-weight:Bold Italic; font-size: 10px ; padding: 1%;
+  }
+  .cpadding5
+  {
+    padding: 5%;
+  }
+  .coms12
+  {
+    font-family: Playfair Display;
+    font-size: 15px;
+    font-weight: regular;
+    padding: 2%;
+  }
+  .bkgf0f0
+  {
+    background-color: #f0f0f0;
+  }
+  .comppadd3
+  {
+    padding: 3%;
+  }
+  @media (max-width: 768px) {
+    .centered1
+    {
+      font-size: 5px;
+    }
+    .mybtn
+    {
+      font-size: 5px;
+    }
+  }

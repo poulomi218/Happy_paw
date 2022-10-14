@@ -1,0 +1,59 @@
+.ctbkgblack
+{
+    background-color: black;
+}
+.ctopacity
+{
+    opacity:30%;
+}
+.cth1
+{
+    font-family:Playfair Display;font-size:62px; font-weight:bold;
+}
+.cts1
+{
+    margin-top: 2% ; padding: 1% ;
+}
+.ctpad3
+{
+    padding: 3% ;
+}
+.cts2
+{
+    background-color:#f0f0f0; text-align: center;  margin: 1% 1% 1% 1%;
+}
+.cts3
+{
+    font-family:Playfair Display; font-size:25px; font-weight:bold;padding: 6%;
+}
+.cts4
+{
+    font-family:Playfair Display; font-size:12px; padding: 6%;
+}
+.cts5
+{
+    background-color:#f0f0f0 ; padding:5%;
+}
+.cts6
+{
+    font-family: Playfair Display;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 1%;
+}
+.cts7
+{
+    font-family: Playfair Display;
+    font-size: 20px;
+    font-weight: regular;
+    padding: 1%;
+
+}
+.ctbtn1
+{
+    background-color: black;
+    color: white;
+    font-family: Playfair Display;
+    font-size: 22px;
+    font-weight: bold;
+}

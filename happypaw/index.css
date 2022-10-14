@@ -1,0 +1,163 @@
+.marLR {
+    width: 100%;
+    max-width: 100%;
+    margin: auto;
+    
+    
+  }
+  .myBanner .content {
+    position: absolute;
+    top: 180px;
+    left: 100px;
+    
+  }
+  .myBanner{
+    background-image: url('./assets/dog.jpg');
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 90%;
+    
+    
+  }
+  .myBanner .content h2 {
+    width: 700px;
+    text-align: left;
+    font-family: Playfair Display;
+    font: normal normal normal 42px/60px Playfair Display;
+    letter-spacing: 0px;
+    color: white;
+    opacity: 1;
+  }
+  
+  .myBanner .content p {
+    width: 700px;
+    /* UI Properties */
+    text-align: left;
+    
+    letter-spacing: 0px;
+    color:white;
+    opacity: 1;
+  }
+  
+  .myBanner .content .btn-outline-success {
+    border: 2px solid #000000;
+    width: 250px;
+    height: 60px;
+    color:black;
+    font-size: 16px;
+    
+    background-color: aliceblue;
+  }
+  
+  
+  /* banner */
+  @media (max-width: 465px) {
+    .marLR {
+      width: 100%;
+      max-width: 100%;
+      margin: 0px;
+    }
+  
+  
+    .myBanner img {
+      width: 100%;
+      height: 100vh;
+    }
+  
+    .myBanner .content {
+      top: 30%;
+      position: absolute;
+      z-index: 1;
+      left: 10px;
+      width: 100% !important;
+    }
+  
+    .myBanner .content h2 {
+      width: 100%;
+      text-align: left;
+      
+      color: white;
+      opacity: 1;
+    }
+  
+    .myBanner .content p {
+      width: 100% !important;
+     
+      text-align: left;
+      font-family:  Roboto;
+      font-size: 26px;
+      letter-spacing: 0px;
+      color: white;
+      font-weight: light;
+      opacity: 1;
+    }
+  
+  }
+  
+  /* banner */
+  
+  .containerb {
+    max-width: 75rem;
+    width: 100%;
+    padding: 4rem 2rem;
+    margin: 0 auto;
+  }
+  .homes1
+  {
+    font-family: Playfair Display;
+    font-size: 60px;
+    font-weight: bold;
+    color: aliceblue;
+  }
+  .ho2{
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: light;
+    color: white;
+  }
+  .headmargin
+  {
+    padding: 2%;
+    margin-left:34%;
+  }
+  .padfhome
+  {
+    margin-left: 5%;
+  }
+  .homest1
+  {
+    background-color: #000000;
+  }
+  .homest2
+  {
+    padding: 4%;
+  }
+  .homest3
+  {
+    font-family: Playfair Display;
+    font-size: 86px;
+    font-weight: semibold;
+    color:white;
+  }
+  .homest4
+  {
+    font-family: Playfair Display;
+    font-size: 20px;
+    font-weight: regular;
+    color:white; 
+  }
+  .homeimgs1
+  {
+    height: 100%;
+    width: 100%;
+    padding-bottom: 80%;
+  }
+  .homeimgs2
+  {
+    height: 100%;
+    width: 100%;
+    padding-top: 80%;
+  }

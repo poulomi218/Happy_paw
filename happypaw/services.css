@@ -1,0 +1,303 @@
+.productPageBanner img {
+    width: 100% !important;
+}
+
+
+body{
+    font-family: 'Gilroy-Medium', sans-serif;
+}
+
+ .carousel {
+    width: 100%;  
+    margin: 50px auto;
+    padding: 0 70px;
+}
+
+
+#catergories .carousel .item {
+    color: #747d89;
+    min-height: max-content;
+    text-align: center;
+    overflow: hidden;
+}
+
+
+#catergories .carousel .item .img-box {
+    height: 100px;
+    margin-bottom: 20px;
+    width: 100%;
+    position: relative;
+}
+
+#catergories .carousel .item img {
+    max-width: 100%;
+    max-height: 100%;
+    display: inline-block;
+    position: absolute;
+    bottom: 0;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+
+#catergories .carousel .item strong {
+    font-size: 25px;
+    color: black;
+}
+
+
+ .carousel-control-prev,
+.carousel-control-next {
+    width: 36px;
+    height: 128px;
+    background: black;
+    margin: auto 0;
+    opacity: 0.8;
+    
+}
+
+ .carousel-control-prev:hover,
+.carousel-control-next:hover {
+    background: #79817b;
+    opacity: 1;
+}
+
+ .carousel-control-prev i,
+.carousel-control-next i {
+    font-size: 36px;
+    position: absolute;
+    top: 50%;
+    display: inline-block;
+    margin: -19px 0 0 0;
+    z-index: 5;
+    left: 0;
+    right: 0;
+    color: #fff;
+    text-shadow: none;
+    font-weight: bold;
+}
+
+ .carousel-control-prev i {
+    margin-left: -2px;
+}
+
+ .carousel-control-next i {
+    margin-right: -4px;
+}
+
+ .carousel-indicators {
+    bottom: -50px;
+}
+
+ .carousel-indicators li,
+.carousel-indicators li.active {
+    width: 10px;
+    height: 10px;
+    margin: 4px;
+    border-radius: 50%;
+    border: none;
+}
+
+ .carousel-indicators li {
+    background: rgba(0, 0, 0, 0.2);
+}
+
+ .carousel-indicators li.active {
+    background: rgba(0, 0, 0, 0.6);
+}
+
+
+/* Favourits */
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .container {
+    position: relative;
+    text-align: center;
+    color: rgb(255, 255, 255);
+  }
+  .button5 {
+    background-color: white;
+    color: black;
+    background-color:#F0F0F0 ; 
+    
+  }
+  
+  .button5:hover {
+    background-color: #000000;
+    color: white;
+  }
+  .button {
+   
+    border: none;
+    
+    
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+   
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align:center; border-color: #f0f0f0; 
+  }
+  .opbuttonactive101
+  {
+    background-color: #000000;
+    color: #fff;
+  }
+  .paddingbuttonop{
+    padding: 3% 40% 3% 40%;
+  }
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 30%;
+    
+  }
+  .bkg
+  {
+    background-color:#F0F0F0;
+  }
+.ser1
+{
+    background-color:black; color:white; font-family: Playfair Display; font-size: 18px; text-align: center; height:120px; 
+}
+.ser2
+{
+    text-align:center ; margin-top: 70px;
+    color:white
+}
+.ser3
+{
+    padding-top:2px ; padding: 40px; margin-left: 40px; 
+}
+.color1
+{
+    color:white;
+}
+.pad30
+{
+    padding: 30px;
+}
+.dropdownser
+{
+    color:white; font-family:Playfair Display; font-size:18px; font-weight:regular; margin-top: 0%; 
+}
+.paddingnav
+{
+    padding-top:10px ; padding: 10px;
+}
+.navimg
+{
+    margin-left: 20px; height: 65%;
+}
+.navitem2
+{
+    padding-top:10px ; padding: 40px; 
+}
+.bkgblack
+{
+    background-color: black;
+}
+.ser101
+{
+    font-family:Playfair Display;font-size:62px; font-weight:bold;
+
+}
+.padding101
+{
+    padding: 5%;
+}
+.heading1
+{
+    font-family:Playfair Display ; font-size:70px; font-weight: SemiBold; text-align: left;
+}
+.opacity
+{
+    opacity:60%;
+}
+.ser303
+{
+    font-family:Playfair Display ; font-size: 15px ; font-weight:regular;
+}
+.head2
+{
+    font-family:Playfair Display ; font-size: 20px; font-weight:bold;}
+
+.pstyle1
+{
+    font-family:Playfair Display ; font-size: 16px ; font-weight:regular; padding: 1%;
+}
+.link1
+{
+    color: black ; font-family:Playfair Display ; font-weight:Bold Italic; font-size: 16px ; padding: 1%;
+}
+.chead
+{
+    font-family:Playfair Display ; font-size:22px; font-weight: bold; padding:1%;
+}
+.cpara
+{
+    font-family:Playfair Display ; font-size:16px; font-weight: regular; padding:1%;   
+}
+.footers1
+{
+    background-color:black ; margin: 40px;
+}
+.footers2
+{
+    font-family:Playfair Display ; font-size: 50px;
+}
+.footers3
+{
+    background-color:black ; margin: 2%; padding: 2%;
+}
+.footers4
+{
+    font-family:Playfair Display; font-size:20px; font-weight:regular ; padding:2%
+}
+.footers5
+{
+     padding:2%;width:100%;
+    background-color: #747d8952;
+    color:#F0F0F0
+}
+.paddings4{
+    padding: 5%;
+}
+.ser3031
+{
+    font-family:Playfair Display ; font-size: 20px ; font-weight:regular; padding: 2%; 
+}
+.ser3032
+{
+    font-family:Playfair Display ; font-size: 15px ; font-weight:regular; padding: 2%; color:white;
+}
+.linkstyle
+{
+    text-decoration: none;
+    color:white;
+}
+.socialmedial
+{
+    color:white; font-size:30px; text-decoration:none;
+}
+.ltextd
+{
+    text-decoration: none;
+    color:white;
+}
+.ltextd:hover
+{
+    color:white;
+}
+.sercol1
+{
+    color:black;
+    margin: 1%;
+}
